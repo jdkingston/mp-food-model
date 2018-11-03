@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^1.8.8"
+    "electron": "^1.8.8",
+    "electron-rebuild": "^1.8.2"
   },
   "dependencies": {
-    "electron-prebuilt": "^1.4.13"
+    "electron-prebuilt": "^1.4.13",
+    "sqlite3": "^4.0.3"
   }
 }
