@@ -1,13 +1,13 @@
 
-#Building the application
+# Building the application
 
 
-#Running the application
+# Running the application
 
 
 
 
-#Installing the database component
+# Installing the database component
 
 `npm install --save-dev electron-rebuild`
 `npm install sqlite3 --save`
